@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - I currently work as a graphic designer, wanting to expand in this universe as a developer.
 
 - Big interest of mine is stocks and the markets, mainly:
-* Investing: Longer term investing: Swedish stocks 3-36+ months
-* Trading: Day- and swingtrading: S&P 500 index futures (E-mini S&P 500)
+>* Investing: Longer term investing: Swedish stocks 3-36+ months
+>* Trading: Day- and swingtrading: S&P 500 index futures (E-mini S&P 500)
 - Pine Script coder: I have developed several indicators, systems and strategies (all my work is currently private on TradingView)
 - Looking to collaborate on backtesting ideas and systems in Pine Script on TradingView and share ideas about the same. Mainly day- and swingtrading of the S&P 500. 
